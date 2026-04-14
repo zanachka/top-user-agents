@@ -72,7 +72,6 @@
   "devDependencies": {
     "@commitlint/cli": "latest",
     "@commitlint/config-conventional": "latest",
-
     "@microlink/ua": "latest",
     "ava": "latest",
     "ci-publish": "latest",
